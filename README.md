@@ -6,7 +6,7 @@ Software Engineer at **[Atlassian](https://www.atlassian.com)** in Sydney, Austr
 
 ### 🔭 What I'm working on
 - **Atlassian (2021–present):** notifications and "assigned work" / "recent work" experiences across Jira, Confluence, Bitbucket and Trello. Past work includes a GraphQL backend that simplifies onboarding new Atlassian products, and load testing for a 2.5k-tenant cloud migration. That load testing fed into Elasticsearch tuning that cut cluster cost by about 30%.
-- **Open source:** YouTube video and playlist import for [Tencent/WeKnora](https://github.com/Tencent/WeKnora), an LLM knowledge platform ([PR #3332](https://github.com/Tencent/WeKnora/pull/3332)). It turns YouTube videos into searchable documents, using captions or speech-to-text and LLM-written documentation.
+
 
 ### 🛠️ Experience
 | | |
